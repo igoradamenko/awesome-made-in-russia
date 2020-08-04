@@ -154,6 +154,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
   
+- **[git-secret](https://github.com/sobolevn/git-secret/)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
+  A bash-tool to store your private data inside a git repository. 
+  
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
   
