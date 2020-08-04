@@ -210,6 +210,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
+  
+- **[Victoria Metrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** by [Aliaksandr Valialkin](https://github.com/valyala)<br>
+  VictoriaMetrics is fast, cost-effective and scalable time-series database.
 
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever!
